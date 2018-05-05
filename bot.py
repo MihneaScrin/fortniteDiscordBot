@@ -6,8 +6,8 @@ import math
 client = discord.Client()
 
 # Constant
-DISCORD_TOKEN = "NDA4MTU2OTE2NDA2Mjg4Mzg1.DVL9Ww.e9ku6WBNQwmvz0rzY_i6wrogeMI"
-FORTNITE_API_KEY = 'ea5ffa46-76a0-426c-a2e8-8b9c6084ee96'
+DISCORD_TOKEN = "NDM3Mzc3MDU0NzY2NTMwNTcw.Dc_IKg.wzf2ZGYZAEYazUF0GnqhB8-4GuA"
+FORTNITE_API_KEY = '9cb68046-0167-4d71-89a9-747592241de4'
 
 LISTE = ['Wood', 'Carton', 'Bronze', 'Silver', 'Gold', 'Platinum', 'Diamond', 'Ruby', 'Royality', 'Illuminati', 'Hackeur']
 WOOD_B = 0.00
